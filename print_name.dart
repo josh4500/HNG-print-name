@@ -4,5 +4,5 @@ void main()
 {
     print("Enter your name?");
     String? name = stdin.readLineSync();
-    print("Your Name, $name! ");
+    print("Your Name is : $name ");
 }
